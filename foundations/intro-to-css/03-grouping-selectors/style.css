@@ -1,0 +1,17 @@
+/** Body **/
+body {
+    background-color: #eff1f5;
+}
+
+/** Buttons **/
+#_1 {
+    background-color: black;
+    color: white;
+}
+#_2 {
+    background-color: #df8e1d;
+}
+button {
+    font-family: Helvetica, Times New Roman, sans-serif;
+    font-size: 28px;
+}
