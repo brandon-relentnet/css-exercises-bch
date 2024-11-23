@@ -1,0 +1,26 @@
+/* Body */
+body {
+    background-color: #eff1f5;
+}
+
+/* Paragraph */
+p {
+    background-color: #e64553;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+/* Odd #'s */
+#_3 {
+    font-size: 24px;
+}
+
+/* Even #'s */
+#_2 {
+    color: #1e66f5;
+    font-size: 36px;
+}
+#_4 {
+    background-color: #40a02b;
+    font-size: 24px;
+    font-weight: bold;
+}
