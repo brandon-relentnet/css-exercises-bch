@@ -1,0 +1,12 @@
+/** Body **/
+body {
+    background-color: #eff1f5;
+}
+
+/** Paragraphs **/
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
